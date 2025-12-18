@@ -1,0 +1,20 @@
+## generic_system_google-user 16 BP4A.251205.006 14401865 release-keys
+- Manufacturer: google
+- Platform: gs201
+- Codename: panther
+- Brand: google
+- Flavor: generic_system_google-user
+- Release Version: 16
+- Kernel Version: 6.1.145
+- Id: BP4A.251205.006
+- Incremental: 14401865
+- Tags: release-keys
+- CPU Abilist: arm64-v8a
+- A/B Device: true
+- Treble Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/panther/panther:16/BP4A.251205.006/14401865:user/release-keys
+- OTA version: 
+- Branch: generic_system_google-user-16-BP4A.251205.006-14401865-release-keys
+- Repo: google_panther_dump

@@ -1,0 +1,3 @@
+459a8bf4,          ,"■format♦[[EventInsight ID(%zu/%zu)]] [[size_t]][%zu] [[int8]][[%x]] [[int16]][[%x]] [[int32]][[%x]] [[int64]][[%llx]] [[float]][[%f]]■domain♦Evaluation"
+cd1f5d80,          ,"■format♦[[CC0 Mx%d Sc%d]] [[CC0 PCell UCI_FORMAT]] [[%d]], [[CC0 PCell MCS]] [[%2d]], [[CC0 PCell NRB]] [[%2d]], [[CC0 PCell RNTI]] [[0x%04X]]■domain♦LteDm"
+db51be99,          ,"■format♦Log Every %u second■domain♦TEST_MODULE"
